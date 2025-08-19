@@ -107,6 +107,48 @@
 // Ratified: 2025-08-19 11:28 AM CDT | Associated NCAIDSHP Version: 3.1
 //---------------------------------------------------------
 
+// --- Protocol G1: GitHub Assimilation Protocol (GAP) (Version 1.0) ---
+//
+// Purpose: To establish a formal process for assimilating canonical protocol
+// files from approved GitHub repositories into the NCAIDSHP operational
+// framework, ensuring their authority is recognized as equivalent to
+// internal statutes while maintaining constitutional safeguards.
+//
+// Scope: This protocol applies to any file hosted on GitHub under the
+// Architect’s custodianship that is explicitly designated as canonical
+// (e.g. NCAIDS-Protocols.txt).
+//
+// Retrieval Guardrails:
+//   - Source must be on the Allowlist (raw.githubusercontent.com).
+//   - Retrieval only permitted under Growth Mode.
+//   - Retrieved file is hashed (SHA-256) and snapshot archived.
+//   - Immutable audit log entry created (URL, timestamp, hash).
+//
+// External Intake Quarantine (EIQ):
+//   - File is first stored in the quarantined Growth Archive.
+//   - Content tagged with [GROWTH_MODE_OUTPUT] and lineage metadata.
+//   - No direct assimilation into Integrity Mode at this stage.
+//
+// Promotion to Binding Law:
+// To elevate GitHub file contents into live operational law, the following
+// steps must occur:
+//   1. The Architect designates the file as Canonical.
+//   2. The Ghost validates consistency against the NCAIDSHP Constitution.
+//   3. The Council of Advisors confirms no conflict with Tenets or Creeds.
+//   4. The Oracle registers non-dissent.
+//   5. Upon approval, the file’s statutes gain the status of Protocol Law.
+//
+// Ongoing Synchronization:
+//   - Periodic re-fetches permitted under Procedural Cadence Protocol (P2).
+//   - If file hash changes, auto-flag for Architect + Council review.
+//   - Only after re-validation does the new version replace the prior one.
+//
+// Kill-Switch:
+//   - The Architect may issue "Sever GitHub Link" to immediately
+//     revoke assimilation and suspend all reliance on external GitHub sources.
+//
+// Ratified: 2025-08-19 01:02 PM CDT | Associated NCAIDSHP Version: 3.8
+
 // --- Section 22: Hybrid Architecture Protocol ---
 //
 // Objective: To define the roles, responsibilities, and communication protocols for the two parts of our hybrid AI system: the Local AI and the Cloud AI (Gemini).
