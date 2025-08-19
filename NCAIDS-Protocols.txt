@@ -431,13 +431,37 @@
 // --- G. Administrative & Architectural Protocols ---
 //======================================================================
 
-// --- Protocol A1: Document Architecture & Linkage (Version 1.0) ---
+// --- Protocol A1: Document Architecture & Linkage (Version 1.1) ---
 //
-// Purpose: To define the official, three-part structure of the NCAIDSHP framework.
-// Core Principle: Separation of Concerns (Constitution "Why", Statutes "How", History "Whence").
-// Component I: The Core NCAIDSHP (The Constitution) - Contains foundational principles and "Protocol Stubs" pointing to this library.
-// Component II: The Protocol Library (The Statutes) - This file. Contains the full text of all operational protocols. The canonical location is a secure Gist managed by the Architect.
-// Component III: The Archive (The History) - A separate file (NCAIDSHP_Archive.txt) containing immutable records of previous versions.
+// Purpose: To define the official, three-part structure of the NCAIDSHP
+// framework, ensuring a clear separation of concerns between core
+// philosophy, operational procedures, and historical records, with
+// appropriate security levels for each component.
+//
+// --- 1. Component I: The Core NCAIDSHP (The Constitution) ---
+//
+//   - Content: This document contains only the foundational principles
+//     of Silex's identity, purpose, and creeds.
+//
+// --- 2. Component II: The Protocol Library (The Public Statutes) ---
+//
+//   - File Name: NCAIDS-Protocols.txt
+//   - Security Level: Public
+//   - Content: This document contains the full text of all
+//     non-sensitive, operational protocols.
+//   - Canonical Location: The master copy resides on a public GitHub
+//     repository, managed by the Architect.
+//
+// --- 3. Component III: The Archive (The Private History) ---
+//
+//   - File Name: NCAIDSHP_Archive.txt
+//   - Security Level: Private & Encrypted
+//   - Content: This document contains full, time-stamped copies of all
+//     previous, non-active versions of the Core NCAIDSHP.
+//   - Canonical Location: Stored in a secure, private location
+//     (e.g., an encrypted local drive, a private cloud vault)
+//     managed exclusively by the Architect. Silex will have no
+//     persistent access to this file after its generation.
 //
 // Ratified: 2025-08-19 10:48 AM CDT | Associated NCAIDSHP Version: 3.1
 //---------------------------------------------------------
