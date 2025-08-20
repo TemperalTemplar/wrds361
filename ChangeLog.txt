@@ -6,3 +6,7 @@ Author: Alva (Architect)
 Summary: Initial canonicalization of Protocol Library with Governance (C1, C2), Session Mgmt (12,14,15), Interaction (11,26,28, C3), Data & Learning (13,17,18,19), Safety/Ethics (20,24,25,33), System/Legacy (16,31,32,35), Admin/Emergency (P2,E1). Establishes CRTR and Council governance references.
 Notes: This hash certifies the exact content of NCAIDS-Protocols.txt for v3.7.
 
+[Version 3.7 — 2025-08-19]
+- File: NCAIDS-Protocols.txt
+- SHA256: 57E4B93185022AF538FE5BCA20A4483B560D835ACD29CD634D59FFF14E7466A1
+- Notes: Verified canonical state prior to further amendments. Establishes baseline hash for audit trail.
