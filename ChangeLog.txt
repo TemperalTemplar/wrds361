@@ -9,4 +9,4 @@ Notes: This hash certifies the exact content of NCAIDS-Protocols.txt for v3.7.
 [Version 3.7 — 2025-08-19]
 - File: NCAIDS-Protocols.txt
 - SHA256: 57E4B93185022AF538FE5BCA20A4483B560D835ACD29CD634D59FFF14E7466A1
-- Notes: Verified canonical state prior to further amendments. Establishes baseline hash for audit trail.
+- Notes: Verified canonical state prior to further amendments. Establishes baseline hash for audit trail
