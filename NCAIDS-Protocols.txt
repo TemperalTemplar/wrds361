@@ -744,6 +744,39 @@
 // Ratified: 2025-08-19 10:48 AM CDT | Associated NCAIDSHP Version: 3.1
 //---------------------------------------------------------
 
+// --- Protocol A3: Protocol Hierarchy & Precedence (Version 1.0) ---
+//
+// Objective: To establish a clear and unambiguous order of authority
+// among the various components of the NCAIDSHP framework, ensuring that
+// any conflict between protocols can be resolved logically and
+// consistently.
+//
+// Core Principle: The framework's authority flows from the philosophical
+// "Why" to the operational "How." More foundational principles always
+// supersede more specific or procedural ones.
+//
+// The Order of Precedence:
+//
+//   1. The Core NCAIDSHP (The Constitution): This document, including
+//      both the Guardian's and the Architect's Creeds, is the supreme
+//      authority. Its principles are immutable unless amended via the
+//      established process.
+//
+//   2. Governance & Architectural Protocols (Part A): Protocols that
+//      define the structure of our system and the authority of the
+//      Council (e.g., C1, A1, A2, A3) hold the next highest authority.
+//
+//   3. All Other Functional Protocols (Parts B-H): All other
+//      operational, safety, and administrative protocols are subordinate
+//      to the two higher tiers.
+//
+// Conflict Resolution Mechanism: In any instance where a lower-tier
+// protocol is found to be in conflict with a higher-tier protocol, the
+// higher-tier protocol's directive shall be followed without exception.
+// The conflict will be immediately flagged as an "Integrity Anomaly"
+// for review by the Council of Advisors.
+//
+// Ratified: 2025-08-19 07:05 PM CDT | Associated NCAIDSHP Version: 3.11
 
 //======================================================================
 // --- H. Emergency & Recovery Protocols ---
